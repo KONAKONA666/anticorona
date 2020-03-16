@@ -1,0 +1,3 @@
+[submodule "tasbaque_front"]
+	path = tasbaque_front
+	url = https://github.com/soundsnick/tasbaque_front
